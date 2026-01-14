@@ -20,7 +20,7 @@ A challenge focused on web exploitation, file upload bypasses, SQL injection,
 initial access, and privilege escalation.
 
 👉 **Full write-up:**  
-https://mrcamz.gitbook.io/mrcamz-docs/exposed-ctf-tryhackme
+https://mrcamz.gitbook.io/mrcamz-docs/exposed-ctf-writeup-mrcamz
 
 ---
 
