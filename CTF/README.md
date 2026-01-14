@@ -29,7 +29,7 @@ An entry-level CTF covering enumeration, service discovery, and basic exploitati
 techniques.
 
 👉 **Full write-up:**  
-https://mrcamz.gitbook.io/mrcamz-docs/easy-peasy-ctf-tryhackme
+https://mrcamz.gitbook.io/mrcamz-docs/easy-peasy-ctf-writeup-mrcamz
 
 ---
 
