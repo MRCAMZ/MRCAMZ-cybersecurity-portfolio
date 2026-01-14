@@ -37,5 +37,4 @@ This GitBook contains:
 ---
 
 ## 📌 Notes
-All content is for educational purposes only.  
 No live systems, credentials, flags, or sensitive data are included.
